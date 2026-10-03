@@ -1,6 +1,2 @@
 # demo
-this is my 
-<br>
-first repo
-<br>
-MY NAME IS SANIYA Buruj
+this is myfirst repo MY NAME IS SANIYA Buruj
